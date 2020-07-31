@@ -1,4 +1,4 @@
-# Hi Friend, I'm Chinwendu 👋
+# Hi Friend 👋
 
 <img src="https://raw.githubusercontent.com/dindustack/dindustack/master/dindustack-surge-sh.jpg">
 
