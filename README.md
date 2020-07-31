@@ -1,6 +1,6 @@
 # Hi Friend, I'm Chinwendu 👋
 
-<img src="https://raw.githubusercontent.com/dindustack/dindustack/master/dindustack.surge.sh.jpg">
+<img src="https://raw.githubusercontent.com/dindustack/dindustack/master/dindustack-surge-sh.jpg">
 
 ### About Me
 <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/dindustack/dindustack/master/octocat.png">
