@@ -9,8 +9,6 @@
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m open to mentorship for women who want to start a tech career
 
-# Samiul Alim
-
 ![Profile views](https://gpvc.arturio.dev/dindustack)
 
 ## Connect with me
