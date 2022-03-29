@@ -6,8 +6,6 @@
  
 - 🔭 Code + Design
 - 🌱 Constantly improving my skills
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m open to mentorship for women who want to start a tech career
 
 ![Profile views](https://gpvc.arturio.dev/dindustack)
 
