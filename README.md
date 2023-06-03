@@ -7,7 +7,7 @@
 - 🔭 Code + Design
 - 🌱 Constantly improving my skills
 
-![Profile views](https://gpvc.arturio.dev/dindustack)
+![Profile views]([https://gpvc.arturio.dev/dindustack](https://github.com/account))
 
 ## Connect with me
 <span align="left" style="display: flex; justify-content: space-around">
