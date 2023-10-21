@@ -40,6 +40,8 @@
 
 ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=dindustack&theme=rogue&area=true&bg_color=011627&color=21C7A8&line=FF009D&point=00ffff&area_color=00FFFF)
 
+![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
+
 <br/>
 <hr/>
 <br/>
