@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dindustack&label=Profile%20views&color=0e75b6&style=flat" alt="dindustack" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dindustack" alt="dindustack" /></a> </p>
 
 - 🔭 I’m currently working on **Knowsphere**
 
@@ -36,3 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dindustack&show_icons=true&locale=en" alt="dindustack" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dindustack&" alt="dindustack" /></p>
+
+[![dindustack's GitHub | Stats](https://stats.quine.sh/dindustack/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dindustack)
+
+[![dindustack's GitHub | Languages Over Time](https://stats.quine.sh/dindustack/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dindustack)
