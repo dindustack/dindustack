@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dindustack.com](https://dindustack.com)
 
-- 📝 I regularly write articles on [https://dev.to/dindustack](https://dev.to/dindustack)
+- 📝 I like to write articles on [https://dev.to/dindustack](https://dev.to/dindustack)
 
 - 💬 Ask me about **JavaScript**
 
