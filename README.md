@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dindustack&label=Profile%20views&color=0e75b6&style=flat" alt="dindustack" /> </p>
 
 
-- 🔭 Started an open source project to learn C **Perfect for beginners**
+- 🔭 Started an open source project for a design system **Perfect for beginners**
 
 - 🌱 I’m currently learning **C Language**
 
