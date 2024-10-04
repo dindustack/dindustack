@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dindustack&label=Profile%20views&color=0e75b6&style=flat" alt="dindustack" /> </p>
 
 
-- 🔭 Upcoming project: Open source project for a design system **Perfect for beginners**
+- 🔭 Ongoing project: Open source project for a collection of JavaScript algorithms **Perfect for beginners**
 
-- 🌱 I’m currently learning **C Language**
+- 🌱 Always learning **C and JavaScript Language**
 
 - 👨‍💻 All of my projects are available at [https://dindustack.com](https://dindustack.com)
 
