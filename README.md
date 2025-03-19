@@ -34,5 +34,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dindustack&" alt="dindustack" /></p>
 
-[![dindustack's GitHub | Stats](https://stats.quine.sh/dindustack/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dindustack)
 
