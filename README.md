@@ -32,6 +32,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dindustack&show_icons=true&locale=en" alt="dindustack" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dindustack&" alt="dindustack" /></p>
 
 
